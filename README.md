@@ -63,6 +63,14 @@ Included systems:
   <img src="media/Weird3.png" width="80%" />
 </p>
 
+<p align="center">
+  <img src="media/Weird4.png" width="80%" />
+</p>
+
+<p align="center">
+  <img src="media/Weird5.png" width="80%" />
+</p>
+
 ---
 
 ## Status
